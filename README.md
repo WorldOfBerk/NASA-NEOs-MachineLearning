@@ -1,6 +1,6 @@
 # Nearest Earth Objects (NEO) Analysis
 Project submission for *Aygaz Makine Öğrenmesi Bootcamp*!<br>
-The Analyze also can be found on my [Kaggle](https://www.kaggle.com/code/barberkengl/nasa-neos-supervised-unsupervised) Notebook.
+The analysis also can be found on my [Kaggle](https://www.kaggle.com/code/barberkengl/nasa-neos-supervised-unsupervised) Notebook.
 
 ## Dataset
 **Source**: [NASA Nearest Earth Objects (1910-2024)](https://www.kaggle.com/datasets/ivansher/nasa-nearest-earth-objects-1910-2024)
